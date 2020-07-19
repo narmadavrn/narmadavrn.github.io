@@ -27,13 +27,13 @@ ul.posts li {
     list-style: none;
 }
 
- a{  
+ #math a, #hello a{  
  color: #4c61ab;
  text-decoration:underline; 
  transition:0.5s;
 }
 
- a:hover{
+ #math a:hover, #hello a:hover{
     color: #000;
     text-decoration: none;
     transition:0.5s;
@@ -58,12 +58,14 @@ ul.posts li {
         color:#666;
         font-size:9px;
         text-align:center;
+    transition:0.5s;
 }
 
 #nav a:hover {
     color:#cbf1ff;
     background:#666;
     text-decoration:none;
+    transition:0.5s;
 }
 #math{
 position:absolute;
