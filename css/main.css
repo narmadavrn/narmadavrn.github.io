@@ -73,7 +73,7 @@ top:100px;
     color: #cbf1ff;
     text-decoration: none;
 }
-.sbimg{
+#sbimg{
  position:absolute;
  top:100px;
  left:20%;   
@@ -82,7 +82,7 @@ img{
  max-width:200px;   
 }
 
-.desc{
+#desc{
  position:absolute;
  left:20%;
  margin-left:210px;
