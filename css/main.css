@@ -75,7 +75,8 @@ top:100px;
 #hello img{
  display:block;
  align:center;
-    margin:auto;
+ margin:auto;
+ max-width:500px;
 }
 
 
