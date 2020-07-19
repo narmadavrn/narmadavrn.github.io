@@ -11,14 +11,14 @@ a:hover {
     text-decoration: underline;
 }
 
-nav {
+#nav {
     position:fixed;
     top:20px;
     left:50%;
     width:100%;
 }
 
-nav a {
+#nav a {
         display:inline-blockl;
          width:100px;
         padding:10px 0px;
