@@ -78,6 +78,9 @@ top:100px;
  margin:auto;
  max-width:500px;
 }
+#hello li{
+ padding:2px;   
+}
 
 
 #sbimg{
