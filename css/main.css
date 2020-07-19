@@ -2,16 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
+
 a {
     text-decoration: none;
     color: #999;
@@ -19,6 +10,24 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+nav {
+    position:fixed;
+    top:20px;
+    left:50%;
+    width:100%;
+}
+
+nav a {
+        display:inline-blockl;
+         width:100px;
+        padding:10px 0px;
+        background:#cbf1ff;
+        text-transform:uppercase;
+        color:#666;
+        font-size:9px;
+}
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
