@@ -34,7 +34,7 @@ ul.posts li {
 }
 
  a:hover{
-    color: #cbf1ff;
+    color: #000;
     text-decoration: none;
     transition:0.2s;
 }
@@ -64,11 +64,13 @@ ul.posts li {
 #math{
 position:absolute;
 top:100px;
+    width:500px;
 }
 
 #hello{
 position:absolute;
 top:100px;
+    width:500px;
 }
 #hello img{
  align:center;   
