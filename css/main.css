@@ -30,13 +30,13 @@ ul.posts li {
  a{  
  color: #4c61ab;
  text-decoration:underline; 
- transition:0.2s;
+ transition:0.4s;
 }
 
  a:hover{
     color: #000;
     text-decoration: none;
-    transition:0.2s;
+    transition:0.4s;
 }
 
 #nav {
