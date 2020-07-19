@@ -65,24 +65,26 @@ ul.posts li {
     background:#666;
     text-decoration:none;
 }
-#math{
+#content{
 position:absolute;
 top:100px;
-    width:500px;
+ width:500px;
+  margin-bottom:50px;
 }
 
-#hello{
+#content{
 position:absolute;
 top:100px;
  width:800px;
+ margin-bottom:50px;
 }
-#hello img{
+#content img{
  display:block;
  align:center;
  margin:auto;
  max-width:500px;
 }
-#hello li{
+#content li{
  padding:2px;   
 }
 
