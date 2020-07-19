@@ -51,6 +51,7 @@ a:hover {
         text-transform:uppercase;
         color:#666;
         font-size:9px;
+        text-align:center;
 }
 
 #nav a:hover {
@@ -71,7 +72,7 @@ a:hover {
 .sbimg{
  position:absolute;
  top:100px;
- left:100px;   
+ left:20%;   
 }
 img{
  max-width:200px;   
@@ -79,7 +80,8 @@ img{
 
 .desc{
  position:absolute;
- left:300px;
+ left:20%;
+ margin-left:10px;
  top:100px;
  width:500px;
 }
