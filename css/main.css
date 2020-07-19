@@ -70,11 +70,12 @@ top:100px;
 #hello{
 position:absolute;
 top:100px;
-    width:500px;
+ width:800px;
 }
 #hello img{
  display:block;
- align:center;   
+ align:center;
+    margin:auto;
 }
 
 
