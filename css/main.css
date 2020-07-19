@@ -45,7 +45,7 @@ a:hover {
 
 #nav a {
         display:inline-block;
-        width:200px;
+        width:50px;
         padding:10px;
         background:#cbf1ff;
         text-transform:uppercase;
@@ -71,7 +71,7 @@ a:hover {
 .sbimg{
  position:absolute;
  top:100px;
- left:60px;   
+ left:100px;   
 }
 img{
  max-width:200px;   
