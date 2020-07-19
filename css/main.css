@@ -29,6 +29,7 @@ ul.posts li {
 
  a{  
  color: #4c61ab;
+ text-decoration: none;
  transition:0.4s;
 }
 
