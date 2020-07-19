@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    line-height:115%;
 }
 
 h1 {
@@ -29,11 +30,11 @@ ul.posts li {
 a {
     text-decoration: none;
     color: #999;
-    transition:0.4s;
+    transition:0.2s;
 }
 a:hover {
     text-decoration: underline;
-    transition:0.4s;
+    transition:0.2s;
 }
 
 #nav {
@@ -43,7 +44,7 @@ a:hover {
 }
 
 #nav a {
-        display:inline-blockl;
+        display:inline-block;
         width:500px;
         padding:10px;
         background:#cbf1ff;
