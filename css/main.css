@@ -70,7 +70,6 @@ a:hover {
 }
 .sbimg{
  position:absolute;
- margin-right:10px;
  top:100px;
 }
 img{
@@ -79,7 +78,6 @@ img{
 
 .desc{
  position:absolute;
- left:350px;
  top:100px;
  width:500px
 }
