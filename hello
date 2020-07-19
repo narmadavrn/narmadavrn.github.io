@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Narmada Varadarajan</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<div id = "nav">
+    		<a href="/">Home</a>
+        	<a href="/math">Math</a>
+        	<a href="/hello">Hello</a>
+		</div>
+<div id = "hello">
+<ul>
+<li><a href="https://timmaurer.com/2012/01/16/horse-sense/" target="blank">A single draft horse can pull a load up to 8,000 pounds. [...] 
+Two draft horses pulling together cannot pull twice as much as one.  
+They can actually pull three times as much.  
+The two draft horses that can each pull 8,000 pounds alone can pull 24,000 pounds working together.
+<br />
+[...]If the two horses that are pulling together have trained with one another and have worked together before, they can’t just pull three times as much working together as they can by themselves.  
+The two trained horses in tandem can actually pull 32,000 pounds, which is a load four times as heavy as either of the horses could pull by themselves.
+</a>
+</li>
+<li> A definitive ranking of ``t&#250;r&#243; rudi'' brands.
+<img src="turo rudi ranking.jpg">
+</li>
+</ul>
+</div>
+	</body>
+</html>
