@@ -69,12 +69,14 @@ ul.posts li {
 position:absolute;
 top:100px;
     width:500px;
+    margin-bottom:50px
 }
 
 #hello{
 position:absolute;
 top:100px;
  width:800px;
+    margin-bottom:50px;
 }
 #hello img{
  display:block;
@@ -83,7 +85,7 @@ top:100px;
  max-width:500px;
 }
 #hello li{
- padding:2px;   
+ padding:5px;   
 }
 
 
