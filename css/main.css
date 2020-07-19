@@ -41,8 +41,12 @@ ul.posts li {
 
 #nav {
     position:fixed;
-    top:20px;
-    left:40%;
+    top:0px;
+    left:0px;
+    width:100%;
+    background:#fff;
+    padding:10px;
+    text-align:center
 }
 
 #nav a {
