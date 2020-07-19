@@ -69,7 +69,18 @@ a:hover {
     color: #cbf1ff;
     text-decoration: none;
 }
-
-img{
-max-width:200px;
+.sbimg{
+ position:absolute;
+ margin:10px;
+ top:100px;
 }
+img{
+ max-width:200px;   
+}
+
+.desc{
+ position:absolute;
+ left:250px;
+ top:100px;
+}
+
