@@ -39,9 +39,7 @@ a:hover {
 #nav {
     position:fixed;
     top:20px;
-    left:50%;
-    margin-left:-1000px;
-    width:2000px;
+    left:40%;
 }
 
 #nav a {
