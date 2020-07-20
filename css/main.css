@@ -138,9 +138,11 @@ width:20%;
 height:100px;   
 background:#aaa;    
 }
-.book img{
- height:100px;
- width:auto;   
+.bookimg{
+    width:30%;
+    height:auto;
+    padding:5px;
+    float:left;  
 }
 .bookdesc{
  margin-top:-100px;   
