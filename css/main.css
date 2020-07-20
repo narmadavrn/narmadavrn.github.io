@@ -103,11 +103,13 @@ p {
 @media screen and (max-width: 600px) {
     #sbimg{
      position:absolute;
-     top:150px; 
-     text-align:center;   
+     top:150px;
+        
     }
     #sbimg img{
-     align:center;   
+     display: block;
+  margin-left: auto;
+  margin-right: auto; 
      max-height:200px;   
     }
 }
@@ -131,7 +133,7 @@ p {
     #content{
      position:absolute;
      top:350px;
-     width:100%;
+     width:80%;
      left:0px;
      padding:10px;   
     }
