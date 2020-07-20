@@ -103,13 +103,12 @@ p {
 @media screen and (max-width: 600px) {
     #sbimg{
      position:absolute;
-     top:160px;
-        
+     top:160px;   
+     margin-left: auto;
+  margin-right: auto;  
     }
     #sbimg img{
      display: block;
-  margin-left: auto;
-  margin-right: auto; 
      height:150px;  
       align:center;  
     }
@@ -126,17 +125,17 @@ p {
  left:25%;
  padding:50px;
  background:#fff;
- width:50%;  
+ width:50%;     
  z-index:500;   
 }
 
 @media screen and (max-width: 600px) {
     #content{
      position:absolute;
-     top:250px;
+     top:350px;
      width:80%;
-     left:0px;
-     padding:10px;   
+     left:6%;
+     padding:5%;      
      margin:auto; 
      align:center;   
     }
