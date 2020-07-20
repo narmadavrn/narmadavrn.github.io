@@ -38,6 +38,7 @@ p {
 
 #links{
         position:absolute;
+        width:100%;
         margin:auto;
         align:center;
         text-align:center;
@@ -53,7 +54,8 @@ p {
         font-weight:bold;
         text-align:center;
         border-bottom:3px solid #4c61ad;
-}
+        align:center;
+ }
 
 #links a:hover {
     color:#fff;
@@ -86,7 +88,10 @@ p {
  padding:50px;
  background:#fff;
  width:50%; 
- margin:auto;
+left:300px;
+ margin-top:auto;
+ margin-bottom:auto;
+ z-index:500;   
 }
 #content li{
  padding: 5px;   
@@ -99,9 +104,11 @@ p {
 }
 
 #sbimg {
- position:absolute;
- top:180px;
- left:10px;   
+ position:fixed;
+ height:100%;
+ left:10px;
+ margin-top:auto;
+ margin-bottom:auto;   
 }
 #sbimg img{  
  display:inline-block;   
