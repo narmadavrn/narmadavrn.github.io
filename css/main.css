@@ -121,7 +121,7 @@ p {
   height:auto;  
 }
 .desc img{
- max-width:30%;
+ max-width:200px;
   height:auto;  
  padding:5px;   
  float:left; 
