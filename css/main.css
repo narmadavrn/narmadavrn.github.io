@@ -54,7 +54,6 @@ ul.posts li {
 #nav a {
         display:inline-block;
         width:50px;
-        height:50px;
         padding:15px;
         background:#cbf1ff;
         text-transform:uppercase;
@@ -99,7 +98,7 @@ margin-bottom:100px;
 
 #sbimg{
  position:absolute;
- top:200px;
+ top:230px;
  left:20%;   
 }
 img{
@@ -108,10 +107,10 @@ img{
 
 #desc{
  font-family:'Helvetica', 'Arial', 'Sans-Serif';
- font-size:12pt;
+ font-size:10pt;
  position:absolute;
  left:20%;
  margin-left:300px;
- top:200px;
+ top:230px;
  width:500px;
 }
