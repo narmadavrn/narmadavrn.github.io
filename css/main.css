@@ -59,7 +59,8 @@ ul.posts li {
         text-transform:lowercase;
         font-weight:bold;
         text-align:left;
-        margin:auto;
+        margin-top:auto;
+        margin-bottom:auto;
         border-left:3px solid #fff;
 }
 
@@ -76,7 +77,7 @@ ul.posts li {
 
 #content{
  position:absolute;
- top:200px;   
+ top:150px;   
  margin-left:auto;
  margin-right:auto;   
  margin-bottom:100px;
@@ -92,11 +93,11 @@ ul.posts li {
  max-width:300px;
 }
 
-.sbimg img{   
+.sbimg img{  
+ display:inline-block;   
  max-width:250px;
 }
 .desc{
- position:absolute;   
  font-family:'Helvetica', 'Arial', 'Sans-Serif';
  font-size:10pt;
  margin-left:250px;
