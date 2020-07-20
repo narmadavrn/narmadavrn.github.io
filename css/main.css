@@ -36,13 +36,13 @@ p {
     text-align:center;
     z-index:1000;
 }
-.links{
+#links{
         position:absolute;
         margin:auto;
 }
 
-.links a {
-        display:block;
+#links a {
+        display:inline-block;
         height:50px;
         padding:50px;
         color:#eee;
@@ -53,24 +53,24 @@ p {
         border-bottom:3px solid #4c61ab;
 }
 
-.links a:hover {
+#links a:hover {
     color:#fff;
     text-decoration:none;
     border-bottom:3px solid #fff;
 }
-.links a.active {
+#links a.active {
     color:#fff;
     text-decoration:none;
     border-bottom:3px solid #fff;
 }
 
-.links a.active-link {
+#links a.active-link {
     color:#fff;
     text-decoration:none;
     border-left:3px solid #fff;
 }
 
-.title{
+#title{
  font-family: 'Arial';
  font-size:20pt;
  font-weight:bold;
