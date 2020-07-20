@@ -62,7 +62,8 @@ ul.posts li {
 }
 .links{
     position:absolute;
-    margin-top:400px;
+    margin-top:auto;
+    margin-bottom:auto;
 }
 
 .links a {
