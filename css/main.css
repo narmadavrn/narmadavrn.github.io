@@ -62,7 +62,7 @@ ul.posts li {
 }
 .links{
     position:absolute;
-    top:20%;
+    top:25%;
     text-align:center;
 }
 
@@ -74,6 +74,7 @@ ul.posts li {
         text-transform:lowercase;
         font-weight:bold;
         text-align:left;
+        margin-bottom:5px;
         border-left:3px solid #fff;
 }
 
@@ -98,9 +99,9 @@ ul.posts li {
 #content{
  position:absolute;
  top:10%;   
- left:15%;
+ left:20%;
  margin-bottom:100px;
- width:70%;   
+ width:50%;   
  background:#eee;   
 }
 #content li{
