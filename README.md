@@ -1,2 +1,2 @@
-# narmadavrn.github.io
+# narmada.github.io
 about me
