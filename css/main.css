@@ -43,12 +43,12 @@ p {
         position:absolute;
         right:50px;
         transition:0.2s;
+        height:50px;
+        padding:50px;
 }
 
 #links a {
         display:inline-block;
-        height:50px;
-        padding:50px;
         color:#eee;
         letter-spacing:2px;
         font-family:'Helvetica'; 
