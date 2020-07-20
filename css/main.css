@@ -141,6 +141,15 @@ p {
    background:#aaa; 
 }
 
+@media screen and (max-width: 600px) {
+    .book{
+     display:block;
+     max-width:100%;
+     height:auto;   
+    }
+
+}
+
 .cover{
  width:100px;
  height:150px;  
