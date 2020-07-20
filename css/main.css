@@ -122,11 +122,9 @@ p {
 }
 .desc img{
 display:inline-block;
- align:center;
  margin:auto;
- max-width:30%;
+ max-width:30%; !important
 height:auto; 
-  float:left;  
 }
 
 #content{
