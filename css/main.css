@@ -51,6 +51,7 @@ ul.posts li {
     z-index:1000;
 }
 .links{
+    position:absolute;
     margin-top:auto;
     margin-bottom:auto;
 }
