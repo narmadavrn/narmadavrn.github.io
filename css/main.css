@@ -110,6 +110,7 @@ p {
      height:auto;   
     }
     #sbimg img{
+     display:block;   
      width:150px;  
     }
 }
