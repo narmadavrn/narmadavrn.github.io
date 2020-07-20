@@ -104,12 +104,12 @@ p {
 #sbimg {
  position:fixed;
  left:10px;
- top:200px;    
+ top:200px; 
+ z-index:200;
 }
 #sbimg img{  
  display:inline-block;   
- max-width:250px;
- z-index:200;   
+ max-width:250px;   
 }
 .desc{
  font-family:'Helvetica', 'Arial', 'Sans-Serif';
