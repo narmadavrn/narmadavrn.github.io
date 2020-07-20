@@ -1,6 +1,5 @@
 body {
     margin: 60px auto;
-    width:80%;
     line-height:150%;
 }
 
@@ -44,8 +43,7 @@ ul.posts li {
  font-family:'Helvetica', 'Arial', 'Sans-Serif';
  position:absolute;
  top:5%;
- margin-left:auto;
- margin-right:auto;
+ left:20%;   
  text-align:left;   
  padding:10px;
  margin-bottom:10px;   
@@ -56,7 +54,7 @@ ul.posts li {
     top:0px;
     right:0px;
     height:100%;
-    width:10%;
+    width:15%;
     background:#fff;
     padding:10px;
     text-align:center;
@@ -66,6 +64,7 @@ ul.posts li {
     position:absolute;
     margin-top:auto;
     margin-bottom:auto;
+    text-align:center;
 }
 
 .links a {
@@ -77,6 +76,8 @@ ul.posts li {
         font-weight:bold;
         text-align:left;
         border-left:3px solid #fff;
+            margin-top:auto;
+     margin-bottom:auto;
 }
 
 .links a:hover {
@@ -100,8 +101,7 @@ ul.posts li {
 #content{
  position:absolute;
  top:10%;   
- margin-left:auto;
- margin-right:auto;   
+ left:15%;
  margin-bottom:100px;
  width:70%;   
 }
