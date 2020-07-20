@@ -44,7 +44,9 @@ ul.posts li {
  font-family:'Helvetica', 'Arial', 'Sans-Serif';
  position:absolute;
  top:50px;
- left:50px;   
+ margin-left:auto;
+ margin-right:auto;
+ text-align:left;   
  padding:10px;
  margin-bottom:10px;   
 }
