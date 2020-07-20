@@ -121,11 +121,12 @@ p {
   height:auto;  
 }
 .desc img{
+display:inline-block;
+ align:center;
+ margin:auto;
  max-width:30%;
-    display:inline-block;
-  height:auto;  
- padding:5px;   
- float:left; 
+height:auto; 
+  float:left;  
 }
 
 #content{
