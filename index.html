@@ -3,6 +3,23 @@
 	<head>
 		<title>Narmada Varadarajan</title>
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+    document.getElementById("topbar").style.fontSize = "10pt";
+  } else {
+    document.getElementById("topbar").style.fontSize = "20pt";
+  }
+}
+		
+function scrollFunction() {
+  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+    document.getElementById("title").style.fontSize = "10pt";
+  } else {
+    document.getElementById("title").style.fontSize = "20pt";
+  }
+}		
 	</head>
 	<body>
 		<div id="topbar">
