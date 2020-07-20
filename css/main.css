@@ -137,6 +137,9 @@ p {
      padding:5%;      
      align:center;   
     }
+    #content img{
+     max-width:80%;   
+    }
 }
 
 #content li{
@@ -146,6 +149,6 @@ p {
  display:block;
  align:center;
  margin:auto;
- max-width:300px;
+ max-width:500px;
 }
 
