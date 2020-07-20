@@ -136,15 +136,15 @@ p {
 .book{
 display:inline-block;
 width:20%;    
-height:150px;   
+height:50px;   
+background:#aaa;    
 }
 .book img{
  height:100%;
  width:auto;   
- display:block;   
 }
 .bookdesc{
- margin-top:-150px;
+ margin-top:-50px;   
  font-size:8pt;   
 }
 
