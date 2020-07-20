@@ -141,7 +141,7 @@ background:#aaa;
 }
 .bookimg img{
     width:auto;
-    height:100px;
+    height:100px; !important
     padding:5px;
 }
 .bookdesc{
