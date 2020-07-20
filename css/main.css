@@ -84,6 +84,7 @@ p {
  color:#000;  
  position:absolute;
  left:10px;
+ bottom:0px;   
  transition:0.2s;   
 }
 .horizontal{
