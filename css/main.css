@@ -138,7 +138,6 @@ p {
     height:150px;
     float:left;
     margin:5px;
-   background:#aaa; 
 }
 
 @media screen and (max-width: 600px) {
@@ -161,9 +160,10 @@ p {
  width:75px;
  height:120px;
  padding:30px 5px 5px 5px;
- font-size:9pt;
+ font-size:8pt;
  float:left;
  margin:auto 5px;   
+    
 }
 
 #content{
