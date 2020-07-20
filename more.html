@@ -9,9 +9,13 @@
 window.onscroll = function() {scrollFunction()};
 	function scrollFunction() {
   if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
-    document.getElementById("topbar").style.height = "50px";
+   	 document.getElementById("topbar").style.height = "50px";
+	  document.getElementById("links").style.height = "20px";
+	  document.getElementById("links").style.padding = "15px";
   } else {
-    document.getElementById("topbar").style.height = "150px";
+   	 document.getElementById("topbar").style.height = "150px";
+	  document.getElementById("links").style.height = "50px";
+	  document.getElementById("links").style.padding = "50px";
   }
 }
 		</script>		
