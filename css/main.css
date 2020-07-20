@@ -79,7 +79,10 @@ p {
  font-weight:bold;
  position:absolute;
  top:130px;
- left:10px;      
+ left:10px;
+    background: linear-gradient(to top, #4c61ad 50%, #f6f6f6 50%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
 }
 
 #content{
