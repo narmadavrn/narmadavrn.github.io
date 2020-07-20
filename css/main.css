@@ -85,7 +85,7 @@ p {
  background:#fff;
  width:50%; 
  top:200px;
- margin:auto;
+ left:300px;   
  z-index:500;   
 }
 #content li{
@@ -101,9 +101,7 @@ p {
 #sbimg {
  position:fixed;
  left:10px;
- top:200px;   
- margin-top:auto;
- margin-bottom:auto;   
+ top:200px;    
 }
 #sbimg img{  
  display:inline-block;   
