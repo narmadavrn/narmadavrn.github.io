@@ -104,10 +104,8 @@ p {
     #sbimg{
      position:absolute;
      top:170px;       
-     width:150px;
-     margin-left:auto;
-     margin-right:auto;
-     height:auto;   
+     left:50%;
+     margin-left:-75px;   
     }
     #sbimg img{
      display:block;   
