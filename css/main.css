@@ -103,13 +103,13 @@ p {
 @media screen and (max-width: 600px) {
     #sbimg{
      position:absolute;
-     top:160px;   
-     left:50%;
-     margin-left:-75px;     
+     top:160px;       
      width:150px;
+     margin-left:auto;
+     margin-right:auto;
+     height:auto;   
     }
     #sbimg img{
-     display: block;
      width:150px;  
     }
 }
