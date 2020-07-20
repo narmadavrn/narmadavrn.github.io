@@ -47,7 +47,7 @@ p {
         padding:50px;
         color:#eee;
         letter-spacing:2px;
-        font-family:'Arial'; 
+        font-family:'Helvetica'; 
         font-size:8pt;
         margin-right:5px;
         text-transform:uppercase;
@@ -74,9 +74,10 @@ p {
 }
 
 #title{
- font-family: 'Arial';
+ font-family: 'Helvetica';
  font-size:30pt;
  font-weight:bold;
+  color:#000;  
  position:absolute;
  top:130px;
  left:10px;
