@@ -133,6 +133,21 @@ p {
   display: table;
 }
 
+.book{
+display:inline-block;
+width:20%;
+height:auto;    
+}
+.book img{
+ width:50%;
+ height:auto;
+ display:inline;   
+}
+.bookdesc{
+ font-size:8pt;  
+}
+
+
 #content{
  position:absolute;
  top:200px;
