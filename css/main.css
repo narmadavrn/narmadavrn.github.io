@@ -127,6 +127,10 @@ p {
     padding:5px;
     float:left;
 }
+.row{
+ margin-top:5px;
+ margin-bottom:5px;   
+}
 .row::after {
   content: "";
   clear: both;
