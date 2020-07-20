@@ -62,7 +62,7 @@ ul.posts li {
 }
 .links{
     position:absolute;
-    top:40%;
+    margin-top:400px;
 }
 
 .links a {
@@ -83,7 +83,7 @@ ul.posts li {
     text-decoration:none;
     border-left:3px solid #4c61ab;
 }
-.links a:active {
+.links a.active {
     color:#000;
     text-decoration:none;
     border-left:3px solid #4c61ab;
