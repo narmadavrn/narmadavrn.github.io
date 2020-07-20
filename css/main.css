@@ -135,7 +135,7 @@ p {
  align:center;
  margin:auto;
  max-width:50%;
- object-fit:contain;   
+height:auto;  
 }
 @media screen and (max-width: 600px) {
     #content{
