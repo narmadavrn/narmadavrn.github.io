@@ -38,10 +38,8 @@ p {
 
 #links{
         position:absolute;
-        width:100%;
         margin:auto;
-        align:center;
-        text-align:center;
+        right:0px;
 }
 
 #links a {
@@ -54,7 +52,6 @@ p {
         font-weight:bold;
         text-align:center;
         border-bottom:3px solid #4c61ad;
-        align:center;
  }
 
 #links a:hover {
@@ -88,9 +85,7 @@ p {
  padding:50px;
  background:#fff;
  width:50%; 
-left:300px;
- margin-top:auto;
- margin-bottom:auto;
+ margin:auto;
  z-index:500;   
 }
 #content li{
