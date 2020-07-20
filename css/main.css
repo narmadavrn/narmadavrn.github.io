@@ -86,7 +86,7 @@ p {
     font-family: 'Helvetica', 'Arial';
  font-size:30pt;
  font-weight:bold; 
- background: linear-gradient(to top, #1c87c9 50%, #113155 50%);
+ background: linear-gradient(to top, #4c61ad 50%, #f6f6f6 50%);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;   
 }
