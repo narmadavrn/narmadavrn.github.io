@@ -38,7 +38,7 @@ p {
 
 #links{
         position:absolute;
-        right:0px;
+        right:50px;
 }
 
 #links a {
@@ -46,8 +46,9 @@ p {
         height:50px;
         padding:50px;
         color:#eee;
-        font-size:11pt;
-        text-transform:lowercase;
+        letter-spacing:2px;
+        font-size:10pt;
+        text-transform:uppercase;
         font-weight:bold;
         text-align:center;
         border-bottom:3px solid #4c61ad;
@@ -72,10 +73,10 @@ p {
 
 #title{
  font-family: 'Arial';
- font-size:20pt;
+ font-size:30pt;
  font-weight:bold;
  position:absolute;
- top:135px;
+ top:130px;
  left:10px;      
 }
 
