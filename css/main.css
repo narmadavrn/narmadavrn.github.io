@@ -127,7 +127,15 @@ p {
  width:50%;     
  z-index:500;   
 }
-
+#content li{
+ padding: 5px;   
+}
+#content img{
+ display:block;
+ align:center;
+ margin:auto;
+ max-width:500px;
+}
 @media screen and (max-width: 600px) {
     #content{
      position:absolute;
@@ -142,13 +150,5 @@ p {
     }
 }
 
-#content li{
- padding: 5px;   
-}
-#content img{
- display:block;
- align:center;
- margin:auto;
- max-width:500px;
-}
+
 
