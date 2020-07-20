@@ -84,6 +84,7 @@ p {
  padding:50px;
  background:#fff;
  width:50%; 
+ top:200px;
  margin:auto;
  z-index:500;   
 }
@@ -99,8 +100,8 @@ p {
 
 #sbimg {
  position:fixed;
- height:100%;
  left:10px;
+ top:200px;   
  margin-top:auto;
  margin-bottom:auto;   
 }
