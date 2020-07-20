@@ -120,7 +120,9 @@ p {
   height:auto;  
 }
 .desc img{
- max-width:60%;  
+ max-width:30%;
+ padding:5px;   
+ display:inline-block;  
 }
 
 #content{
