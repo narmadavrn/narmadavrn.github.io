@@ -1,5 +1,5 @@
 body {
-    margin: 60px auto;
+    background:#f6f6f6;
     line-height:150%;
 }
 
@@ -8,9 +8,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
+    line-height: 2;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -38,70 +36,67 @@ ul.posts li {
     transition:0.4s;
 }
 
-#title{
- font-size:16pt;
- font-family:'Helvetica', 'Arial', 'Sans-Serif';
- position:absolute;
- top:5%;
- left:20%;   
- text-align:left;   
- padding:10px;
- margin-bottom:10px;   
-}
+%-- topbar --%
 
-#nav {
+#topbar {
     position:fixed;
     top:0px;
-    right:0px;
-    height:100%;
-    width:15%;
-    background:#fff;
-    padding:10px;
+    left:0px;
+    width:100%;
+    height:150px;
+    background:#4c61ab;
     text-align:center;
     z-index:1000;
 }
 .links{
-    position:absolute;
-    top:25%;
-    text-align:center;
+        position:absolute;
+        margin:auto;
 }
 
 .links a {
         display:block;
-        padding:10px;
-        color:#666;
+        height:50px;
+        padding:50px;
+        color:#eee;
         font-size:11pt;
         text-transform:lowercase;
         font-weight:bold;
-        text-align:left;
-        margin-bottom:5px;
-        border-left:3px solid #fff;
+        text-align:center;
+        border-bottom:3px solid #4c61ab;
 }
 
 .links a:hover {
-    color:#4c61ab;
+    color:#fff;
     text-decoration:none;
-    border-left:3px solid #4c61ab;
+    border-bottom:3px solid #fff;
 }
 .links a.active {
-    color:#000;
+    color:#fff;
     text-decoration:none;
-    border-left:3px solid #4c61ab;
+    border-bottom:3px solid #fff;
 }
 
 .links a.active-link {
-    color:#000;
+    color:#fff;
     text-decoration:none;
-    border-left:3px solid #4c61ab;
+    border-left:3px solid #fff;
 }
 
+.title{
+ font-family: 'Arial';
+ font-size:20pt;
+ font-weight:bold;
+ position:absolute;
+ top:140px;
+ left:10px;      
+}
 
 #content{
  position:absolute;
- top:25%;   
- left:20%;
+ top:200px;   
+ left:300px;
  margin-bottom:100px;
- width:50%;   
+ width:60%;   
 }
 #content li{
  padding: 5px;   
@@ -113,17 +108,16 @@ ul.posts li {
  max-width:300px;
 }
 
-.sbimg {
- position:absolute;   
- margin-left:420px;
+#sbimg {
+ position:absolute;
+ top:160px;
+ left:10px;   
 }
-.sbimg img{  
+#sbimg img{  
  display:inline-block;   
  max-width:250px;
 }
 .desc{
- position:absolute;   
  font-family:'Helvetica', 'Arial', 'Sans-Serif';
  font-size:12pt;
- width:400px;   
 }
