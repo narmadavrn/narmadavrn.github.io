@@ -116,6 +116,11 @@ p {
 .desc{
  font-family:'Helvetica', 'Arial', 'Sans-Serif';
  font-size:12pt;
+ width:auto;  
+  height:auto;  
+}
+.desc img{
+ max-width:60%;  
 }
 
 #content{
