@@ -138,7 +138,7 @@ p {
      align:center;   
     }
     #content img{
-     max-width:80%;    
+     object-fit: contain;   
     }
 }
 
