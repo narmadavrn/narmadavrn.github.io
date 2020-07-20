@@ -134,7 +134,7 @@ p {
 }
 
 .book{
-    width:200px;
+    width:250px;
     height:150px;
     float:left;
     margin:5px;
@@ -145,7 +145,7 @@ p {
  width:100px;
  height:150px;  
  float:left;
- margin:auto 5px;   
+ margin:auto 0px auto 0px;   
 }
 
 .author{
@@ -154,7 +154,7 @@ p {
  padding:30px 5px 5px 5px;
  font-size:9pt;
  float:left;
- margin:5px;   
+ margin:auto 5px;   
 }
 
 #content{
