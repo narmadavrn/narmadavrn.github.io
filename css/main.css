@@ -134,6 +134,7 @@ p {
 }
 
 .book{
+display:inline-block;    
 width:20%;    
 height:100px;   
 background:#aaa;    
@@ -142,7 +143,6 @@ background:#aaa;
     width:30%;
     height:auto;
     padding:5px;
-    float:left;  
 }
 .bookdesc{
  margin-top:-100px;   
