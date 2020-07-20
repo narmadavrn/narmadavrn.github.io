@@ -135,16 +135,17 @@ p {
 
 .book{
 display:inline-block;
-width:20%;
-height:auto;    
+width:20%;    
+height:150px;   
 }
 .book img{
- width:50%;
- height:auto;
- display:inline;   
+ height:100%;
+ width:auto;   
+ display:block;   
 }
 .bookdesc{
- font-size:8pt;  
+ margin-top:-150px;
+ font-size:8pt;   
 }
 
 
