@@ -42,31 +42,30 @@ ul.posts li {
 #nav {
     position:fixed;
     top:0px;
-    left:0px;
-    width:100%;
+    right:0px;
+    height:100%;
     background:#fff;
     padding:10px;
     text-align:center;
     z-index:1000;
-    border-bottom:10px #f2f2f2;
 }
 
 #nav a {
-        display:inline-block;
-        width:50px;
-        padding:15px;
-        background:#cbf1ff;
-        text-transform:uppercase;
+        display:block;
+        padding:10px;
         color:#666;
-        font-size:9px;
-        text-align:center;
+        font-size:11pt;
+        text-transform:lowercase;
+        font-weight:bold;
+        text-align:left;
         margin:auto;
+        border-left:3px solid #fff;
 }
 
-#nav a:hover {
-    color:#cbf1ff;
-    background:#666;
+#nav a:hover, #nav a:active {
+    color:#4c61ab;
     text-decoration:none;
+    border-left:3px solid #4c61ab;
 }
 #math{
 position:absolute;
