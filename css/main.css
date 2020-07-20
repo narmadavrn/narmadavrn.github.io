@@ -135,13 +135,10 @@ p {
      width:80%;
      left:5%;
      padding:5%;      
-     align:center;   
     }
     #content img{
-     max-width: 100%;
+    max-width: 75%;
   height:auto;
-  margin: auto;
-  display: block;  
     }
 }
 
