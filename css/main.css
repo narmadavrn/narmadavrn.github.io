@@ -47,7 +47,9 @@ p {
         padding:50px;
         color:#eee;
         letter-spacing:2px;
-        font-size:10pt;
+        font-family:'Arial'; 
+        font-size:8pt;
+        margin-right:5px;
         text-transform:uppercase;
         font-weight:bold;
         text-align:center;
@@ -107,6 +109,7 @@ p {
 #sbimg img{  
  display:inline-block;   
  max-width:250px;
+ z-index:200;   
 }
 .desc{
  font-family:'Helvetica', 'Arial', 'Sans-Serif';
