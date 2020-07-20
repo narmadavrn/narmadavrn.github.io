@@ -75,8 +75,7 @@ ul.posts li {
         font-weight:bold;
         text-align:left;
         border-left:3px solid #fff;
-        margin-top:auto;
-        margin-bottom:auto;
+        margin-top:300px;
 }
 
 .links a:hover {
@@ -104,7 +103,6 @@ ul.posts li {
  margin-right:auto;   
  margin-bottom:100px;
  width:600px;   
- background:#eee;   
 }
 #content li{
  padding: 5px;   
