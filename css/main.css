@@ -49,6 +49,7 @@ ul.posts li {
     padding:10px;
     text-align:center;
     z-index:1000;
+    border-bottom:10px #f2f2f2;
 }
 
 #nav a {
