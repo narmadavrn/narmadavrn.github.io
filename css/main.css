@@ -41,11 +41,12 @@ ul.posts li {
 
 #title{
  font-size:14pt;
+ font-family:'Helvetica', 'Arial', 'Sans-Serif';
  position:absolute;
  top:50px;
  left:50px;   
  padding:10px;
- margin:10px;   
+ margin-bottom:10px;   
 }
 
 #nav {
