@@ -62,8 +62,7 @@ ul.posts li {
 }
 .links{
     position:absolute;
-    margin-top:auto;
-    margin-bottom:auto;
+    top:20%;
     text-align:center;
 }
 
@@ -102,6 +101,7 @@ ul.posts li {
  left:15%;
  margin-bottom:100px;
  width:70%;   
+ background:#eee;   
 }
 #content li{
  padding: 5px;   
