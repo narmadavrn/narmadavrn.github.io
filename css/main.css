@@ -101,6 +101,16 @@ p {
   height:auto;  
 }
 
+#email{
+ position:fixed;
+ left:10px;
+ top:450px;
+ width:250px;
+ height:auto;
+ text-align:center;
+ font-size:10pt;   
+}
+
 @media screen and (max-width: 600px) {
     #sbimg{
      position:absolute;
@@ -111,6 +121,14 @@ p {
     #sbimg img{
      display:block;   
      width:150px;  
+    }
+    
+    #email{
+      position:absolute;
+     top:340px;       
+     left:50%;
+     width:150px;   
+     margin-left:-75px;    
     }
 }
 
@@ -192,7 +210,7 @@ height:auto;
 @media screen and (max-width: 600px) {
     #content{
      position:absolute;
-     top:340px;
+     top:370px;
      width:80%;
      left:5%;
      padding:5%;      
