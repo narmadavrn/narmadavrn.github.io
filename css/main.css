@@ -1,6 +1,6 @@
 body {
     background-color:#f6f6f6;
-    line-height:200%;
+    line-height:150%;
 }
 
 
@@ -8,9 +8,7 @@ h1 {
     font-size: 14px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
-    line-height: 2em;
-}
+
 
 
  a{  
